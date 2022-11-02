@@ -1,0 +1,17 @@
+.ParallaxContent {
+  background: none repeat scroll 0 0 #2581e8;
+  padding: 42px 0;
+  color:#FFF;	
+} 
+
+.ParallaxVideo{ 
+    height: 300px;
+    padding-bottom: 50px;
+    padding-top: 50px; 
+}
+.ParallaxVideo video{ 
+    min-width: 100%;
+    position: fixed;
+    top:0;
+    z-index: -999;
+}
